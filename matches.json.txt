@@ -1,0 +1,1383 @@
+{
+  "success": true,
+  "data": {
+    "from": "2026-08-17",
+    "to": null,
+    "matches": [
+      {
+        "match_id": 1997031364,
+        "match_date": "2026-08-17 19:00:00",
+        "date_unix": 1786993200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124574,
+        "game_week": 1,
+        "league": {
+          "league_id": 10,
+          "name": "Spain La Liga",
+          "country": "Spain",
+          "competition_name": "La Liga",
+          "image": "https://footballdata.io/img/league/spain-la-liga.png"
+        },
+        "season": {
+          "season_id": 117065,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 256,
+          "team_name": "Deportivo La CoruÃ±a",
+          "team_logo": "https://footballdata.io/img/team/real-club-deportivo-de-la-coruna.png"
+        },
+        "away_team": {
+          "team_id": 265,
+          "team_name": "Elche CF",
+          "team_logo": "https://footballdata.io/img/team/elche-cf.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 2.22,
+          "draw": 3,
+          "away_win": 3.6
+        },
+        "probabilities": {
+          "home_win": 42.43,
+          "draw": 31.4,
+          "away_win": 26.17
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 2079863827,
+        "match_date": "2026-08-18 19:00:00",
+        "date_unix": 1787079600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125385,
+        "game_week": null,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 98,
+          "team_name": "FenerbahÃ§e",
+          "team_logo": "https://footballdata.io/img/team/fenerbahce.png"
+        },
+        "away_team": {
+          "team_id": 55,
+          "team_name": "Olympique Lyonnais",
+          "team_logo": "https://footballdata.io/img/team/olympique-lyonnais.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 2.01,
+          "draw": 3.6,
+          "away_win": 3.3
+        },
+        "probabilities": {
+          "home_win": 46.14,
+          "draw": 25.76,
+          "away_win": 28.1
+        },
+        "venue": {
+          "stadium_name": "ÅžÃ¼krÃ¼ SaracoÄŸlu Stadium",
+          "stadium_location": "Recep Peker Caddesi, KadÄ±kÃ¶y"
+        }
+      },
+      {
+        "match_id": 2079863828,
+        "match_date": "2026-08-18 19:00:00",
+        "date_unix": 1787079600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125385,
+        "game_week": null,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 1307,
+          "team_name": "Levski Sofia",
+          "team_logo": "https://footballdata.io/img/team/pfc-levski-sofia.png"
+        },
+        "away_team": {
+          "team_id": 697,
+          "team_name": "AEK Athens",
+          "team_logo": "https://footballdata.io/img/team/aek-athens-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 2.85,
+          "draw": 3.3,
+          "away_win": 2.4
+        },
+        "probabilities": {
+          "home_win": 32.77,
+          "draw": 28.31,
+          "away_win": 38.92
+        },
+        "venue": {
+          "stadium_name": "Vivacom Arena - Georgi Asparuhov",
+          "stadium_location": "ul. Todorini kukli 47"
+        }
+      },
+      {
+        "match_id": 2079863831,
+        "match_date": "2026-08-18 19:00:00",
+        "date_unix": 1787079600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125385,
+        "game_week": null,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 113,
+          "team_name": "Dinamo Zagreb",
+          "team_logo": "https://footballdata.io/img/team/gnk-dinamo-zagreb.png"
+        },
+        "away_team": {
+          "team_id": 295,
+          "team_name": "Viking",
+          "team_logo": "https://footballdata.io/img/team/viking-fk.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.75,
+          "draw": 3.9,
+          "away_win": 4.2
+        },
+        "probabilities": {
+          "home_win": 53.61,
+          "draw": 24.05,
+          "away_win": 22.34
+        },
+        "venue": {
+          "stadium_name": "Stadion Maksimir",
+          "stadium_location": "Maksimirska cesta 128"
+        }
+      },
+      {
+        "match_id": 1997031369,
+        "match_date": "2026-08-19 19:00:00",
+        "date_unix": 1787166000,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124574,
+        "game_week": 1,
+        "league": {
+          "league_id": 10,
+          "name": "Spain La Liga",
+          "country": "Spain",
+          "competition_name": "La Liga",
+          "image": "https://footballdata.io/img/league/spain-la-liga.png"
+        },
+        "season": {
+          "season_id": 117065,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 109,
+          "team_name": "AtlÃ©tico Madrid",
+          "team_logo": "https://footballdata.io/img/team/club-atletico-de-madrid.png"
+        },
+        "away_team": {
+          "team_id": 253,
+          "team_name": "MÃ¡laga CF",
+          "team_logo": "https://footballdata.io/img/team/malaga-cf.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.29,
+          "draw": 5.65,
+          "away_win": 10
+        },
+        "probabilities": {
+          "home_win": 73.67,
+          "draw": 16.82,
+          "away_win": 9.5
+        },
+        "venue": {
+          "stadium_name": "Riyadh Air Metropolitano",
+          "stadium_location": "Madrid"
+        }
+      },
+      {
+        "match_id": 1997032270,
+        "match_date": "2026-08-19 19:00:00",
+        "date_unix": 1787166000,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125385,
+        "game_week": null,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 22,
+          "team_name": "Celtic",
+          "team_logo": "https://footballdata.io/img/team/celtic-fc.png"
+        },
+        "away_team": {
+          "team_id": 444,
+          "team_name": "LASK Linz",
+          "team_logo": "https://footballdata.io/img/team/lask-linz.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.63,
+          "draw": 4,
+          "away_win": 5
+        },
+        "probabilities": {
+          "home_win": 57.69,
+          "draw": 23.51,
+          "away_win": 18.81
+        },
+        "venue": {
+          "stadium_name": "Celtic Park",
+          "stadium_location": "The Celtic Way Parkhead, Glasgow"
+        }
+      },
+      {
+        "match_id": 2079863826,
+        "match_date": "2026-08-19 19:00:00",
+        "date_unix": 1787166000,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125385,
+        "game_week": null,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 331,
+          "team_name": "NEC",
+          "team_logo": "https://footballdata.io/img/team/nijmegen-eendracht-combinatie.png"
+        },
+        "away_team": {
+          "team_id": 293,
+          "team_name": "FK Bodo - Glimt",
+          "team_logo": "https://footballdata.io/img/team/fk-bodo-glimt.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 2.5,
+          "draw": 3.8,
+          "away_win": 2.5
+        },
+        "probabilities": {
+          "home_win": 37.62,
+          "draw": 24.75,
+          "away_win": 37.62
+        },
+        "venue": {
+          "stadium_name": "Goffertstadion",
+          "stadium_location": "Stadionplein 1"
+        }
+      },
+      {
+        "match_id": 2079863829,
+        "match_date": "2026-08-19 19:00:00",
+        "date_unix": 1787166000,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125385,
+        "game_week": null,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 56,
+          "team_name": "Hapoel Be'er Sheva",
+          "team_logo": "https://footballdata.io/img/team/hapoel-beer-sheva-fc.png"
+        },
+        "away_team": {
+          "team_id": 1160,
+          "team_name": "Sabah",
+          "team_logo": "https://footballdata.io/img/team/sabah-fk.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 2.17,
+          "draw": 3.32,
+          "away_win": 2.77
+        },
+        "probabilities": {
+          "home_win": 41.03,
+          "draw": 26.82,
+          "away_win": 32.15
+        },
+        "venue": {
+          "stadium_name": "Yaakov Turner Toto Stadium",
+          "stadium_location": "Etsel Street 2"
+        }
+      },
+      {
+        "match_id": 2079863830,
+        "match_date": "2026-08-19 19:00:00",
+        "date_unix": 1787166000,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125385,
+        "game_week": null,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 649,
+          "team_name": "Slovan Bratislava",
+          "team_logo": "https://footballdata.io/img/team/sk-slovan-bratislava.png"
+        },
+        "away_team": {
+          "team_id": 943,
+          "team_name": "Celje",
+          "team_logo": "https://footballdata.io/img/team/nk-celje.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.66,
+          "draw": 3.9,
+          "away_win": 4.5
+        },
+        "probabilities": {
+          "home_win": 55.72,
+          "draw": 23.72,
+          "away_win": 20.56
+        },
+        "venue": {
+          "stadium_name": "Å tadiÃ³n TehelnÃ© pole",
+          "stadium_location": "Viktora Tegelhoffa 4"
+        }
+      },
+      {
+        "match_id": 2135764415,
+        "match_date": "2026-08-20 15:00:00",
+        "date_unix": 1787238000,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 1552,
+          "team_name": "Kairat",
+          "team_logo": "https://footballdata.io/img/team/fk-kairat-almaty.png"
+        },
+        "away_team": {
+          "team_id": 59,
+          "team_name": "RSC Anderlecht",
+          "team_logo": "https://footballdata.io/img/team/rsc-anderlecht.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 3.5,
+          "draw": 3.5,
+          "away_win": 2.05
+        },
+        "probabilities": {
+          "home_win": 26.97,
+          "draw": 26.97,
+          "away_win": 46.05
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 2135764414,
+        "match_date": "2026-08-20 16:00:00",
+        "date_unix": 1787241600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 506,
+          "team_name": "MjÃ¤llby",
+          "team_logo": "https://footballdata.io/img/team/mjallby-aif.png"
+        },
+        "away_team": {
+          "team_id": 93,
+          "team_name": "Salzburg",
+          "team_logo": "https://footballdata.io/img/team/fc-salzburg.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 3.8,
+          "draw": 3.56,
+          "away_win": 1.73
+        },
+        "probabilities": {
+          "home_win": 23.45,
+          "draw": 25.03,
+          "away_win": 51.51
+        },
+        "venue": {
+          "stadium_name": "Strandvallen",
+          "stadium_location": "CampingvÃ¤gen 44, HÃ¤llevik"
+        }
+      },
+      {
+        "match_id": 2135764417,
+        "match_date": "2026-08-20 16:00:00",
+        "date_unix": 1787241600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 764,
+          "team_name": "Jagiellonia BiaÅ‚ystok",
+          "team_logo": "https://footballdata.io/img/team/ssa-jagiellonia-bialystok.png"
+        },
+        "away_team": {
+          "team_id": 1960,
+          "team_name": "Saburtalo",
+          "team_logo": "https://footballdata.io/img/team/fc-saburtalo-tbilisi.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.42,
+          "draw": 4.93,
+          "away_win": 8.05
+        },
+        "probabilities": {
+          "home_win": 68.29,
+          "draw": 19.67,
+          "away_win": 12.05
+        },
+        "venue": {
+          "stadium_name": "Stadion Miejski",
+          "stadium_location": "ul. SÅ‚oneczna 1"
+        }
+      },
+      {
+        "match_id": 2135764409,
+        "match_date": "2026-08-20 17:00:00",
+        "date_unix": 1787245200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 102,
+          "team_name": "BeÅŸiktaÅŸ",
+          "team_logo": "https://footballdata.io/img/team/besiktas.png"
+        },
+        "away_team": {
+          "team_id": 768,
+          "team_name": "Kauno Å½algiris",
+          "team_logo": "https://footballdata.io/img/team/fk-kauno-zalgiris.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.22,
+          "draw": 6.2,
+          "away_win": 12
+        },
+        "probabilities": {
+          "home_win": 77.02,
+          "draw": 15.15,
+          "away_win": 7.83
+        },
+        "venue": {
+          "stadium_name": "BeÅŸiktaÅŸ Park",
+          "stadium_location": "ViÅŸnezade, DolmabahÃ§e Cd. No:1"
+        }
+      },
+      {
+        "match_id": 2135764412,
+        "match_date": "2026-08-20 17:00:00",
+        "date_unix": 1787245200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 2476,
+          "team_name": "CS U Craiova",
+          "team_logo": "https://footballdata.io/img/team/cs-universitatea-craiova.png"
+        },
+        "away_team": {
+          "team_id": 801,
+          "team_name": "FC Avan Academy",
+          "team_logo": "https://footballdata.io/img/team/fc-avan-academy.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.42,
+          "draw": 4.3,
+          "away_win": 6.2
+        },
+        "probabilities": {
+          "home_win": 64.13,
+          "draw": 21.18,
+          "away_win": 14.69
+        },
+        "venue": {
+          "stadium_name": "Stadionul Ion Oblemenco (Craiova)",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 2135764416,
+        "match_date": "2026-08-20 17:00:00",
+        "date_unix": 1787245200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 893,
+          "team_name": "Egnatia RrogozhinÃ«",
+          "team_logo": "https://footballdata.io/img/team/ks-egnatia-rrogozhine.png"
+        },
+        "away_team": {
+          "team_id": 354511,
+          "team_name": "LillestrÃ¸m",
+          "team_logo": "https://footballdata.io/img/team/lillestrom-sk.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 3.5,
+          "draw": 3.7,
+          "away_win": 2
+        },
+        "probabilities": {
+          "home_win": 27.06,
+          "draw": 25.59,
+          "away_win": 47.35
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 2135764418,
+        "match_date": "2026-08-20 17:00:00",
+        "date_unix": 1787245200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 161,
+          "team_name": "Trabzonspor",
+          "team_logo": "https://footballdata.io/img/team/trabzonspor.png"
+        },
+        "away_team": {
+          "team_id": 110,
+          "team_name": "FerencvÃ¡ros",
+          "team_logo": "https://footballdata.io/img/team/ferencvarosi-tc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.58,
+          "draw": 4,
+          "away_win": 4.8
+        },
+        "probabilities": {
+          "home_win": 58,
+          "draw": 22.91,
+          "away_win": 19.09
+        },
+        "venue": {
+          "stadium_name": "Medical Park Stadyumu",
+          "stadium_location": "Trabzon Giresun Yolu, Akyaz"
+        }
+      },
+      {
+        "match_id": 2168857460,
+        "match_date": "2026-08-20 17:00:00",
+        "date_unix": 1787245200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 639,
+          "team_name": "Lech PoznaÅ„",
+          "team_logo": "https://footballdata.io/img/team/kks-lech-poznan.png"
+        },
+        "away_team": {
+          "team_id": 599,
+          "team_name": "Thun",
+          "team_logo": "https://footballdata.io/img/team/fc-thun.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.64,
+          "draw": 3.89,
+          "away_win": 5
+        },
+        "probabilities": {
+          "home_win": 57.16,
+          "draw": 24.1,
+          "away_win": 18.75
+        },
+        "venue": {
+          "stadium_name": "Enea stadion",
+          "stadium_location": "ul. BuÅ‚garska 17"
+        }
+      },
+      {
+        "match_id": 2112940391,
+        "match_date": "2026-08-20 18:00:00",
+        "date_unix": 1787248800,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 64,
+          "team_name": "Red Star Belgrade",
+          "team_logo": "https://footballdata.io/img/team/red-star-belgrade.png"
+        },
+        "away_team": {
+          "team_id": 71,
+          "team_name": "Viktoria PlzeÅˆ",
+          "team_logo": "https://footballdata.io/img/team/fc-viktoria-plzen.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.7,
+          "draw": 3.9,
+          "away_win": 4.6
+        },
+        "probabilities": {
+          "home_win": 55.39,
+          "draw": 24.14,
+          "away_win": 20.47
+        },
+        "venue": {
+          "stadium_name": "Stadion Rajko MitiÄ‡",
+          "stadium_location": "Ljutice Bogdana 1a"
+        }
+      },
+      {
+        "match_id": 2135764411,
+        "match_date": "2026-08-20 18:00:00",
+        "date_unix": 1787248800,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 1537,
+          "team_name": "OFI",
+          "team_logo": "https://footballdata.io/img/team/ofi-fc.png"
+        },
+        "away_team": {
+          "team_id": 1306,
+          "team_name": "CSKA Sofia",
+          "team_logo": "https://footballdata.io/img/team/pfc-cska-sofia.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 2.72,
+          "draw": 3.25,
+          "away_win": 2.63
+        },
+        "probabilities": {
+          "home_win": 34.83,
+          "draw": 29.15,
+          "away_win": 36.02
+        },
+        "venue": {
+          "stadium_name": "Pankritio Stadio",
+          "stadium_location": "Spyrou Moustakli"
+        }
+      },
+      {
+        "match_id": 2135764413,
+        "match_date": "2026-08-20 18:00:00",
+        "date_unix": 1787248800,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 418,
+          "team_name": "Sint-Truiden",
+          "team_logo": "https://footballdata.io/img/team/sint-truidense-vv.png"
+        },
+        "away_team": {
+          "team_id": 1323,
+          "team_name": "Omonia Nicosia",
+          "team_logo": "https://footballdata.io/img/team/ac-omonia-nicosia.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.86,
+          "draw": 3.66,
+          "away_win": 4.12
+        },
+        "probabilities": {
+          "home_win": 51.03,
+          "draw": 25.93,
+          "away_win": 23.04
+        },
+        "venue": {
+          "stadium_name": "Stayen Stadion",
+          "stadium_location": "Tiensesteenweg 168"
+        }
+      },
+      {
+        "match_id": 2063270412,
+        "match_date": "2026-08-20 19:00:00",
+        "date_unix": 1787252400,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124574,
+        "game_week": 2,
+        "league": {
+          "league_id": 10,
+          "name": "Spain La Liga",
+          "country": "Spain",
+          "competition_name": "La Liga",
+          "image": "https://footballdata.io/img/league/spain-la-liga.png"
+        },
+        "season": {
+          "season_id": 117065,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 261,
+          "team_name": "Rayo Vallecano",
+          "team_logo": "https://footballdata.io/img/team/rayo-vallecano.png"
+        },
+        "away_team": {
+          "team_id": 247,
+          "team_name": "Deportivo AlavÃ©s",
+          "team_logo": "https://footballdata.io/img/team/deportivo-alaves.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 2.2,
+          "draw": 3.11,
+          "away_win": 3.54
+        },
+        "probabilities": {
+          "home_win": 42.94,
+          "draw": 30.38,
+          "away_win": 26.69
+        },
+        "venue": {
+          "stadium_name": "Estadio de Vallecas",
+          "stadium_location": "Calle Payaso FofÃ³"
+        }
+      },
+      {
+        "match_id": 2135764410,
+        "match_date": "2026-08-20 19:00:00",
+        "date_unix": 1787252400,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 125387,
+        "game_week": null,
+        "league": {
+          "league_id": 46,
+          "name": "Europe UEFA Europa League",
+          "country": "Europe",
+          "competition_name": "UEFA Europa League",
+          "image": "https://footballdata.io/img/league/europe-uefa-europa-league.png"
+        },
+        "season": {
+          "season_id": 90443,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 72,
+          "team_name": "Benfica",
+          "team_logo": "https://footballdata.io/img/team/sl-benfica.png"
+        },
+        "away_team": {
+          "team_id": 1047,
+          "team_name": "AGF",
+          "team_logo": "https://footballdata.io/img/team/aarhus-gymnastikforening.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.2,
+          "draw": 6.7,
+          "away_win": 9.6
+        },
+        "probabilities": {
+          "home_win": 76.68,
+          "draw": 13.73,
+          "away_win": 9.59
+        },
+        "venue": {
+          "stadium_name": "EstÃ¡dio do Sport Lisboa e Benfica",
+          "stadium_location": "Av. EusÃ©bio da Silva Ferreira, 1500-313"
+        }
+      },
+      {
+        "match_id": 740533372,
+        "match_date": "2026-08-21 19:00:00",
+        "date_unix": 1787338800,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "away_team": {
+          "team_id": 209,
+          "team_name": "Coventry City",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.18,
+          "draw": 8.5,
+          "away_win": 21
+        },
+        "probabilities": {
+          "home_win": 83.68,
+          "draw": 11.62,
+          "away_win": 4.7
+        },
+        "venue": {
+          "stadium_name": "Emirates Stadium",
+          "stadium_location": "Arsenal Football Club Highbury House 75 Drayton Park London, N5 1BU"
+        }
+      },
+      {
+        "match_id": 2064194642,
+        "match_date": "2026-08-21 19:00:00",
+        "date_unix": 1787338800,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124574,
+        "game_week": 2,
+        "league": {
+          "league_id": 10,
+          "name": "Spain La Liga",
+          "country": "Spain",
+          "competition_name": "La Liga",
+          "image": "https://footballdata.io/img/league/spain-la-liga.png"
+        },
+        "season": {
+          "season_id": 117065,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 254,
+          "team_name": "Real Betis",
+          "team_logo": "https://footballdata.io/img/team/real-betis-balompie.png"
+        },
+        "away_team": {
+          "team_id": 260,
+          "team_name": "Real Sociedad",
+          "team_logo": "https://footballdata.io/img/team/real-sociedad-de-futbol.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 2.08,
+          "draw": 3.42,
+          "away_win": 3.5
+        },
+        "probabilities": {
+          "home_win": 45.4,
+          "draw": 27.61,
+          "away_win": 26.98
+        },
+        "venue": {
+          "stadium_name": "Estadio La Cartuja de Sevilla",
+          "stadium_location": "Seville, Spain"
+        }
+      },
+      {
+        "match_id": 740533374,
+        "match_date": "2026-08-22 11:30:00",
+        "date_unix": 1787398200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "away_team": {
+          "team_id": 133,
+          "team_name": "Manchester United",
+          "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 0,
+          "draw": 0,
+          "away_win": 0
+        },
+        "probabilities": {
+          "home_win": 36.34,
+          "draw": 15.52,
+          "away_win": 48.15
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 6,
+    "requests_limit": 1000,
+    "requests_remaining": 994,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 25,
+      "total": 200,
+      "total_pages": 8
+    },
+    "filters": {
+      "from": "2026-08-17",
+      "to": null,
+      "league_id": null,
+      "season_id": null,
+      "team_id": null,
+      "status": null
+    },
+    "count": 25,
+    "language": "en"
+  }
+}

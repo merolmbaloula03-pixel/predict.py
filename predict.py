@@ -31,9 +31,22 @@ for match in matches:
     away = match.get("away_team", {}).get("team_name", "Équipe extérieur")
     date = match.get("match_date", "")
 
-    # Première version : avantage à l'équipe à domicile
+    # # Prédiction basée sur les probabilités
+probabilities = match.get("probabilities", {})
+
+home_prob = probabilities.get("home_win", 0)
+draw_prob = probabilities.get("draw", 0)
+away_prob = probabilities.get("away_win", 0)
+
+if home_prob >= draw_prob and home_prob >= away_prob:
     prediction = "1"
     result = "Victoire domicile"
+elif away_prob >= home_prob and away_prob >= draw_prob:
+    prediction = "2"
+    result = "Victoire extérieur"
+else:
+    prediction = "X"
+    result = "Match nul"
 
     print(f"📅 {date}")
     print(f"⚽ {home} vs {away}")

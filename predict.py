@@ -28,27 +28,29 @@ print()
 
 for match in matches:
     home = match.get("home_team", {}).get("team_name", "Équipe domicile")
-    away = match.get("away_team", {}).get("team_name", "Équipe extérieur")
+    away = match.get("away_team", {}).get("team_name", "Équipe extérieure")
     date = match.get("match_date", "")
 
-    # # Prédiction basée sur les probabilités
-probabilities = match.get("probabilities", {})
+    # Probabilités
+    probabilities = match.get("probabilities", {})
 
-home_prob = probabilities.get("home_win", 0)
-draw_prob = probabilities.get("draw", 0)
-away_prob = probabilities.get("away_win", 0)
+    home_prob = probabilities.get("home_win", 0)
+    draw_prob = probabilities.get("draw", 0)
+    away_prob = probabilities.get("away_win", 0)
 
-if home_prob >= draw_prob and home_prob >= away_prob:
-    prediction = "1"
-    result = "Victoire domicile"
-elif away_prob >= home_prob and away_prob >= draw_prob:
-    prediction = "2"
-    result = "Victoire extérieur"
-else:
-    prediction = "X"
-    result = "Match nul"
+    # Prédiction
+    if home_prob >= draw_prob and home_prob >= away_prob:
+        prediction = "1"
+        result = "Victoire domicile"
+    elif away_prob >= home_prob and away_prob >= draw_prob:
+        prediction = "2"
+        result = "Victoire extérieur"
+    else:
+        prediction = "X"
+        result = "Match nul"
 
     print(f"📅 {date}")
     print(f"⚽ {home} vs {away}")
-    print(f"🔮 Prédiction : {prediction} — {result}")
+    print(f"🔮 Prédiction : {prediction} – {result}")
+    print(f"📊 Probabilités : 1={home_prob}% | X={draw_prob}% | 2={away_prob}%")
     print("-" * 50)
